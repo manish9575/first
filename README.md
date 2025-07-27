@@ -1,2 +1,2 @@
 # first
-fist repo
+fist repo by manish
